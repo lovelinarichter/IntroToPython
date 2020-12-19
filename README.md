@@ -16,11 +16,13 @@ The following software are required:
 3. A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
 ## File Descriptions
-The files included in this repo are:
+The files included in this repo: 
 1. bikeshare2.py - python code.
-2. chicago.csv - Source: https://www.divvybikes.com/system-data
-3. new_york_city.csv- Source: https://www.citibikenyc.com/system-data
-4. washington.csv - Source: https://www.capitalbikeshare.com/system-data
+
+Data needed: <br>
+2. chicago.csv - download from: https://www.divvybikes.com/system-data <br>
+3. new_york_city.csv- download from: https://www.citibikenyc.com/system-data <br>
+4. washington.csv - download from: https://www.capitalbikeshare.com/system-data <br>
 
 ## Licensing
 Must give credit to Udacity and Motivate company. In this project, the data is provided by Motivate, a bike share system provider for many major cities in the United States.
